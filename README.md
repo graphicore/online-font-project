@@ -2,7 +2,7 @@
 
 A small supporter for fonts projects that are hosted online on GitHub-Pages or any other simple HTTP server.
 
-The Idea is to bundle and configure a list of purely browser-based apps that can help you to make fonts.
+The Idea is to bundle and configure a list of purely browser-based apps that can help you making fonts.
 
 The main target group is free/libre font projects hosted on GitHub. But
 if you like this you can also deploy it on your private server, even in
