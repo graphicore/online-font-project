@@ -2,7 +2,8 @@ require([
     'require/domReady'
   , 'ofp/LiveTestingController'
 ], function(
-  , URLHostedController
+    domReady
+  , LiveTestingController
 ) {
     "use strict";
     /*global document:true*/
